@@ -18,7 +18,7 @@ This Django-based web application allows users to manage their favorite recipes.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/recipe-management.git
+   git clone https://github.com/Anirudhrarao/RecipeBox.git
    cd recipe-management
 
 2. Create a virtual environment (optional but recommended):
